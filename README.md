@@ -1,5 +1,11 @@
 ## 놈팡이 프로젝트
 
+
+## PPT 주소
+
+  - https://www.canva.com/design/DAGA3-1X6-0/xibloQXviZee9HVjY-9VSg/edit?utm_content=DAGA3-1X6-0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+    
 ## 노션 주소 
 
   - https://valley-manatee-119.notion.site/1ST-PROJECT-4e34c12ed95d4b24bd9bb0997b3217d5?pvs=4
