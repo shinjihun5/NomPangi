@@ -1,20 +1,15 @@
 # 놈팡이 프로젝트
 
 ![Badge](https://img.shields.io/badge/Version-1.0.0-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 처음 계획 의도는 자취생들을 위한 냉장고 관리 시스템으로 시작했으며, 나아가 모든 연령층이 사용할 수 있게 발전시키고자 합니다. Spring JPA를 사용하여 개발되었습니다.
 
 ## 목차
 - [소개](#소개)
 - [기능](#기능)
-- [설치](#설치)
-- [사용법](#사용법)
 - [PPT 주소](#ppt-주소)
 - [노션 주소](#노션-주소)
 - [맡은 역할](#맡은-역할)
-- [기여](#기여)
-- [라이센스](#라이센스)
 - [연락처](#연락처)
 
 ## 소개
@@ -40,3 +35,23 @@ cd repository
 npm install
 # 또는
 pip install -r requirements.txt
+```
+
+## PPT 주소
+놈팡이 프로젝트에 대한 더 자세한 정보를 PPT를 통해 확인하실 수 있습니다.
+
+   - https://www.canva.com/design/DAGA3-1X6-0/xibloQXviZee9HVjY-9VSg/edit?utm_content=DAGA3-1X6-0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## 노션 주소
+프로젝트 관리와 진행 상황은 노션 페이지를 통해 확인하실 수 있습니다.
+
+  - https://valley-manatee-119.notion.site/1ST-PROJECT-4e34c12ed95d4b24bd9bb0997b3217d5?pvs=4
+
+## 맡은 역할
+같은 기능을 맡은 팀원의 개인 사정으로 게시판 전체를 전반적으로 담당하였으며, 팀원의 기능 수정을 도와주었습니다.
+
+
+## 연락처
+질문이나 제안 사항이 있으시면 다음 연락처로 문의해주세요.
+
+  - 이메일: sinjihun5@gmail.com
