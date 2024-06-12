@@ -7,7 +7,7 @@
 ## 목차
 - [소개](#소개)
 - [기능](#기능)
-- [PPT 주소](#ppt-주소)
+- [ppt 주소](#ppt-주소)
 - [노션 주소](#노션-주소)
 - [맡은 역할](#맡은-역할)
 - [연락처](#연락처)
@@ -37,7 +37,7 @@ npm install
 pip install -r requirements.txt
 ```
 
-## PPT 주소
+## ppt 주소
 놈팡이 프로젝트에 대한 더 자세한 정보를 PPT를 통해 확인하실 수 있습니다.
 
    - https://www.canva.com/design/DAGA3-1X6-0/xibloQXviZee9HVjY-9VSg/edit?utm_content=DAGA3-1X6-0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
